@@ -1,0 +1,10 @@
+**Introduction**
+ -Exploring into dataset
+ -Dealing with str functions: sub_set, str_sub
+ -Changing from character to integer: as.numeric
+ -Using tidyverse package: mutate, filter, case_when
+ -Renaming 
+ -Visualizing dataset with gg package: boxplot
+**Fitting models using lm and cor**
+ -Predicting selling_price with other related variables: engine_CC, max_power, km_driven, age, mileage_kmpl
+**Conclusion**
